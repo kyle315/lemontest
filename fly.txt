@@ -1,3 +1,12 @@
 laoniu
 muzijiejie
 xiaolige
+
+
+开发流程：
+主干master分支去新建分支branch1/branch2
+开发A在branch1上面进行开发
+开发B在branch2上面进行开发
+当开发都自测完毕，代码没有问题（单元测试）
+所有分支的修改一起合并到主干master分支上面
+在主干master分支编译/打包
